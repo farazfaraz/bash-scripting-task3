@@ -12,6 +12,6 @@ curl http://localhost:8080/index
 curl http://localhost:8080/health
 ```
 * Or run one of them without curl on your browser.
-* if you send an address that contains neither index nor health it tells you that the page does not exist.
+* if you send an address that contains neither http://localhost:8080/index nor http://localhost:8080/health it tells you that the page does not exist.
 
 
